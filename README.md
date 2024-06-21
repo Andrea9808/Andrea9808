@@ -1,4 +1,6 @@
 👋 Hi, I’m @Andrea9808
+WELCOME TO MY GITHUB
+
 👀 I'm passionate about web development and artificial intelligence 🧠, which I believe are the future of technological innovation.
 I'm enthusiastic about contributing to projects that integrate these two fields, exploring innovative solutions and creating advanced user experiences.
 
